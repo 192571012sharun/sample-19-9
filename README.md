@@ -1,1 +1,1 @@
-# sample-19-9
+this is an sample practical 
